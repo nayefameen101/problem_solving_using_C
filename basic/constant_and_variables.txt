@@ -1,0 +1,9 @@
+variable -> value change in memory
+constant -> value do not change
+
+a = 10
+a = 20
+
+a variable 
+
+10 and 20 constant

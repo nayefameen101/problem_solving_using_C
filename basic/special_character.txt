@@ -1,0 +1,16 @@
+
+Special Symbol
+
+@ at the rate
+, comma
+# hash
+$ dollar
+% modulo
+& ampersand
+* asteric
+() braket
+{} braces
+[] square braket
+: colon
+; semi-colon
+! 
