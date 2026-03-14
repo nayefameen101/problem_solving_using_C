@@ -17,7 +17,8 @@ int main(){
     int num = 10;
     printf("\n%d\n", num);
     num = 20;
-    printf("\n%d\n",num);
-
+    
+    
+    
     return 0;
 }
